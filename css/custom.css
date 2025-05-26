@@ -1,0 +1,86 @@
+.scroll-to-top {
+    margin: 68vh 0 0 96% !important;
+    padding: 10px;
+    background: #4d4b4b;
+    padding-right: 8px;
+
+}
+
+.dropdown-menu>.dropdown-item:hover {
+    color: #f8f9fc;
+    background-color: #007BFF !important;
+}
+
+.img-profile {
+    height: 2rem !important;
+    width: 2rem !important
+}
+
+.text-gray-100 {
+    color: #f8f9fc !important
+}
+
+.text-gray-200 {
+    color: #eaecf4 !important
+}
+
+.text-gray-300 {
+    color: #dddfeb !important
+}
+
+.text-gray-400 {
+    color: #d1d3e2 !important
+}
+
+.text-gray-500 {
+    color: #b7b9cc !important
+}
+
+.text-gray-600 {
+    color: #858796 !important
+}
+
+.text-gray-700 {
+    color: #6e707e !important
+}
+
+.text-gray-800 {
+    color: #5a5c69 !important
+}
+
+.text-gray-900 {
+    color: #3a3b45 !important
+}
+
+/* certificate */
+.certificate {
+    border: 10px solid tan;
+}
+
+.logo {
+    align-content: center !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    color: tan;
+}
+
+.logo img {
+    align-content: center;
+    width: 150px;
+    height: 150px;
+}
+
+fieldset.scheduler-border {
+    border: 1px groove #ddd !important;
+    padding: 0 1.4em 1.4em 1.4em !important;
+    margin: 0 0 1.5em 0 !important;
+    -webkit-box-shadow: 0px 0px 0px 0px #000;
+    box-shadow: 0px 0px 0px 0px #000;
+}
+
+legend.scheduler-border {
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+    text-align: left !important;
+}
